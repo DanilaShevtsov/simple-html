@@ -1,0 +1,30 @@
+body {
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1,
+ol,
+p {
+    color: aliceblue;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin: 10px;
+    text-align: center;
+}
+
+a,
+div {
+    margin: 10px;
+
+    color: red;
+}
+
+img {
+    margin: 10px;
+    width: 25%;
+}
